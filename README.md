@@ -16,6 +16,10 @@ A modern implementation of the pull-to-refresh pattern for Android.
 ###Testing
 [Growing Android Applications guided by tests](http://novoda.com/blog/blog/gaagbt-part-1). A series of posts aimed at showing and discussing best practices on TDD and Android. | [Part 2](http://novoda.com/blog/blog/gaagbt-part-2). 
 
+###Misc.
+
+[Dagger vs. Guice](http://dig.floatingsun.net/dagger-vs-guice/). A comparison of the two Java dependency-injection frameworks. 
+
 ##Videos
 
 
