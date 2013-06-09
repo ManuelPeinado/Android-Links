@@ -24,3 +24,7 @@ A modern implementation of the pull-to-refresh pattern for Android.
 
 
 [Google I/O 2013 - The New Android SDK Build System](https://www.youtube.com/watch?v=LCJAgPkpmR0). By Xavier Ducrohet. Introducing the new Gradle-based Android SDK build system that will eventually replace Ant and the Eclipse builders.
+
+##Open-source apps
+
+[Otto + Dagger sample](https://github.com/alexmazza/FindMe). A simple example to understand how to use Dagger and Otto.
