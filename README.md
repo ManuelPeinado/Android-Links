@@ -18,6 +18,8 @@ A modern implementation of the pull-to-refresh pattern for Android.
 
 ###Misc.
 
+[Layout Inflation as Intended](http://www.doubleencore.com/2013/05/layout-inflation-as-intended/). 
+
 [Dagger vs. Guice](http://dig.floatingsun.net/dagger-vs-guice/). A comparison of the two Java dependency-injection frameworks. 
 
 ##Videos
