@@ -5,6 +5,10 @@
 [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh).
 A modern implementation of the pull-to-refresh pattern for Android.
 
+###Misc.
+
+[Merlin](https://github.com/novoda/merlin). Merlin aims to simplify network monitoring by providing 3 registerable callbacks.
+
 ##Blog posts
 
 ###Good practices
