@@ -22,6 +22,10 @@ A modern implementation of the pull-to-refresh pattern for Android.
 
 ###Misc.
 
+Context, What Context?(http://www.doubleencore.com/2013/06/context/). Some insights on how Context works alongside some tips that will (hopefully) allow you to leverage it more effectively in your applications.
+
+[Blur effect for Android design](http://nicolaspomepuy.fr/?p=18).
+
 [Layout Inflation as Intended](http://www.doubleencore.com/2013/05/layout-inflation-as-intended/). 
 
 [Dagger vs. Guice](http://dig.floatingsun.net/dagger-vs-guice/). A comparison of the two Java dependency-injection frameworks. 
