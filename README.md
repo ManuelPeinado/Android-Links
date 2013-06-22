@@ -22,7 +22,7 @@ A modern implementation of the pull-to-refresh pattern for Android.
 
 ###Misc.
 
-Context, What Context?(http://www.doubleencore.com/2013/06/context/). Some insights on how Context works alongside some tips that will (hopefully) allow you to leverage it more effectively in your applications.
+[Context, What Context?](http://www.doubleencore.com/2013/06/context/). Some insights on how Context works alongside some tips that will (hopefully) allow you to leverage it more effectively in your applications.
 
 [Blur effect for Android design](http://nicolaspomepuy.fr/?p=18).
 
